@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: kkkj-prod
+  labels:
+    environment-id: env_e6c84ada-d566-4ba6-9ee6-e6a308f12d6f
+    project-id: project_5c3ea769-fcf7-4ee6-a3a0-757d7dacfdbd
+    project-name: kkkj
+    environment-name: prod
+    organization-id: org_7a7c68a9-0d1d-4ef5-ad4d-40b555ceddd1
